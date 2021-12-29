@@ -15,4 +15,4 @@ For more information as well as SD cards with {
   >
   }
   
-  Visit [Raspberry Pi Makerspace] (raspberrypimakerspace.ca)  and check out the repository for the project [Raspberry Pi Makerspace GitHub] (https://github.com/NorthernSantan/Raspberry-Pi-Makerspace.git).
+  Visit [Raspberry Pi Makerspace](raspberrypimakerspace.ca)  and check out the repository for the project [Raspberry Pi Makerspace GitHub](https://github.com/NorthernSantan/Raspberry-Pi-Makerspace.git).
