@@ -15,4 +15,4 @@ For more information as well as SD cards with {
   
   }
   
-  Visit [ raspberrypimakerspace.ca ] and check out the repository for the project [ https://github.com/NorthernSantan/Raspberry-Pi-Makerspace.git ].
+  Visit [] raspberrypimakerspace.ca  and check out the repository for the project [ https://github.com/NorthernSantan/Raspberry-Pi-Makerspace.git ].
