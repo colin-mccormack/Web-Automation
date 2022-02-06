@@ -3,6 +3,8 @@ import time
 import schedule
 option = webdriver.ChromeOptions()
 option.add_argument("-incognito")
+
+# Note : All implicit wates are alternatives to onLoad attributes, since all elements must be loaded and have an xpath property before the program can run
  
 browser = webdriver.Chrome(executable_path='C:\\', options=option)
 browser.get("")
